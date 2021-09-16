@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-  vmImage: 'Ubuntu-16.04'
+  vmImage: 'Ubuntu-latest'
 variables:
   buildConfiguration: 'Release'
 steps:
